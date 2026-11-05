@@ -1,0 +1,4 @@
+cv/*.html -text
+cv/*.js -text
+cv/*.jpg binary
+cv/*.pdf binary
